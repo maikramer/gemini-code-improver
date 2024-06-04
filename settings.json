@@ -1,0 +1,1 @@
+{"api_key": "", "train_on_changed": false, "temperature": 0.7, "max_output_tokens": 500, "training_repos": ["https://github.com/h2zero/NimBLE-Arduino"]}

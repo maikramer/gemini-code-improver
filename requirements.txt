@@ -1,0 +1,7 @@
+PyQt6~=6.7.0
+google-generativeai
+requests
+beautifulsoup4~=4.12.3
+PyGithub~=2.3.0
+diff
+# Add any other Python packages your project requires
